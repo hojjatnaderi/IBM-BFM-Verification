@@ -28,7 +28,6 @@ solvers
         agglomerator	 faceAreaPair;
         nCellsInCoarsestLevel 1000;
         mergeLevels	 1;
-//        preconditioner  Cholesky;
         minIter         3;
         maxIter         1000;
     }
@@ -44,7 +43,6 @@ solvers
         agglomerator	 faceAreaPair;
         nCellsInCoarsestLevel 1000;
         mergeLevels	 1;
-//        preconditioner  Cholesky;
         minIter         3;
         maxIter         1000;
     }   
